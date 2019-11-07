@@ -1,6 +1,6 @@
 <?php
 
-namespace Exia\Standards;
+namespace Exia\Standards\PhpCsFixer;
 
 use PhpCsFixer\Finder as BaseFinder;
 

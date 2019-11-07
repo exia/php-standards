@@ -1,6 +1,6 @@
 {
     "name": "exia/standards",
-    "description": "Exia coding standards",
+    "description": "Exia Coding Standards",
     "license": "proprietary",
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.15",
@@ -11,6 +11,5 @@
         "psr-4": {
             "Exia\\Standards\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
